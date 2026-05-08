@@ -78,3 +78,25 @@ https://medium.com/@community_55548
 ## Philosophy
 
 Not designed for cycles. Designed to outlast them.
+
+---
+
+## Official Links
+
+- Website: https://zacrocoz.com
+- BscScan: https://bscscan.com/token/0x4cFa773Df72A3cCB89cb643Ad4c2A9b9F1692F5A
+- PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x4cFa773Df72A3cCB89cb643Ad4c2A9b9F1692F5A
+- DexScreener: https://dexscreener.com/bsc/0xb4d247b9cd3cf32860376566c3e02004f4484a79
+- Twitter/X: https://x.com/zacrocoz
+- Telegram: https://t.me/zacrocozofficial
+
+---
+
+## Official Contract Address
+
+```solidity
+0x4cFa773Df72A3cCB89cb643Ad4c2A9b9F1692F5A
+
+Structured Blockchain. Built for Endurance.
+
+Deliberate Design. Defined Decentralization.
