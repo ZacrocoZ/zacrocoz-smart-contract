@@ -1,29 +1,47 @@
 # ZacrocoZ (ZRZ)
 
-Structured Blockchain Ecosystem on BNB Smart Chain.
+Structured Blockchain Ecosystem on BNB Smart Chain
 
-Deliberate Design. Defined Decentralization.
+**Structured Blockchain. Built for Endurance.**
+**Deliberate Design. Defined Decentralization.**
+
+---
+
+## Philosophy
+
+ZacrocoZ is built on the principle of deliberate blockchain architecture.
+
+Every mechanism is intentional.
+Every allocation is structured.
+Every phase has purpose.
+
+Not designed for cycles.
+Designed to outlast them.
 
 ---
 
 ## Official Contract Information
 
-* Token Name: ZacrocoZ
-* Symbol: ZRZ
-* Network: BNB Smart Chain (BEP-20)
-* Solidity Version: 0.8.20
-* Total Supply: 110,000,000 ZRZ
-* Contract Type: Fixed Supply
-* Transaction Tax: 0%
-* Mint Function: Disabled
-* Upgradeable Proxy Logic: Not Included
-* Public Burn Function: Enabled
+| Category                | Details                  |
+| ----------------------- | ------------------------ |
+| Token Name              | ZacrocoZ                 |
+| Symbol                  | ZRZ                      |
+| Network                 | BNB Smart Chain (BEP-20) |
+| Solidity Version        | 0.8.20                   |
+| Total Supply            | 110,000,000 ZRZ          |
+| Contract Type           | Fixed Supply             |
+| Transaction Tax         | 0%                       |
+| Mint Function           | Disabled                 |
+| Upgradeable Proxy Logic | Not Included             |
+| Public Burn Function    | Enabled                  |
 
 ---
 
 ## Official Contract Address
 
+```solidity
 0x4cFa773Df72A3cCB89cb643Ad4c2A9b9F1692F5A
+```
 
 ---
 
@@ -44,23 +62,15 @@ ZacrocoZ is designed with a long-term transparency-focused ecosystem architectur
 
 The ZacrocoZ ecosystem follows a phased liquidity deployment model with long-term liquidity locking commitments.
 
-Phase 1 liquidity has already been publicly locked.
+### Phase 1 Status
 
-Liquidity Lock Proof:
+* Initial liquidity deployed
+* Liquidity publicly locked
+* Structured phased deployment model active
+
+### Liquidity Lock Proof
+
 https://app.uncx.network/lockers/univ3/chain/56/address/0xb4d247b9cd3cf32860376566c3e02004f4484a79/lock/1068
-
----
-
-## Official Links
-
-Website:
-https://zacrocoz.com
-
-X / Twitter:
-https://x.com/ZacrocoZ
-
-Medium:
-https://medium.com/@community_55548
 
 ---
 
@@ -72,30 +82,45 @@ https://medium.com/@community_55548
 * No upgradeable proxy architecture
 * OpenZeppelin-based implementation
 * Public on-chain verification
-
----
-
-## Philosophy
-
-Not designed for cycles. Designed to outlast them.
+* Transparency-oriented ecosystem structure
 
 ---
 
 ## Official Links
 
-- Website: https://zacrocoz.com
-- BscScan: https://bscscan.com/token/0x4cFa773Df72A3cCB89cb643Ad4c2A9b9F1692F5A
-- PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x4cFa773Df72A3cCB89cb643Ad4c2A9b9F1692F5A
-- DexScreener: https://dexscreener.com/bsc/0xb4d247b9cd3cf32860376566c3e02004f4484a79
-- Twitter/X: https://x.com/zacrocoz
-- Telegram: https://t.me/zacrocozofficial
+* Website
+  https://zacrocoz.com
+
+* BscScan
+  https://bscscan.com/token/0x4cFa773Df72A3cCB89cb643Ad4c2A9b9F1692F5A
+
+* PancakeSwap
+  https://pancakeswap.finance/swap?outputCurrency=0x4cFa773Df72A3cCB89cb643Ad4c2A9b9F1692F5A&chain=bsc
+
+* DexScreener
+  https://dexscreener.com/bsc/0xb4d247b9cd3cf32860376566c3e02004f4484a79
+
+* X / Twitter
+  https://x.com/ZacrocoZ
+
+* Telegram
+  https://t.me/zacrocozofficial
+
+* Discord
+  https://discord.gg/ySzVFT9Cq5
+
+* GitHub
+  https://github.com/ZacrocoZ/zacrocoz-smart-contract
+
+* Medium
+  https://medium.com/@community_55548
+
+* Reddit
+  https://www.reddit.com/r/ZacrocoZOfficial
 
 ---
 
-## Official Contract Address
-
-```solidity
-0x4cFa773Df72A3cCB89cb643Ad4c2A9b9F1692F5A
+## Closing Statement
 
 Structured Blockchain. Built for Endurance.
 
