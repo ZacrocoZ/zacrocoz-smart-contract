@@ -1,6 +1,13 @@
 # ZacrocoZ (ZRZ)
 
-Structured Blockchain Ecosystem on BNB Smart Chain
+A structured blockchain ecosystem engineered on BNB Smart Chain.
+
+![Solidity](https://img.shields.io/badge/Solidity-0.8.20-black)
+![Network](https://img.shields.io/badge/BNB%20Chain-BEP20-yellow)
+![Supply](https://img.shields.io/badge/Supply-110M-blue)
+![Tax](https://img.shields.io/badge/Tax-0%25-green)
+![Security](https://img.shields.io/badge/Security-MultiSig-important)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 **Structured Blockchain. Built for Endurance.**
 **Deliberate Design. Defined Decentralization.**
