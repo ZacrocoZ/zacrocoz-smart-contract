@@ -113,6 +113,9 @@ https://app.uncx.network/lockers/univ3/chain/56/address/0xb4d247b9cd3cf328603765
 * Telegram
   https://t.me/zacrocozofficial
 
+* Telegram
+  https://t.me/ZacrocoZCommunity
+
 * Discord
   https://discord.gg/ySzVFT9Cq5
 
