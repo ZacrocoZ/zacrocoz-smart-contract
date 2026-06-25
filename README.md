@@ -125,8 +125,8 @@ https://app.uncx.network/lockers/univ3/chain/56/address/0xb4d247b9cd3cf328603765
 * Medium
   https://medium.com/@community_55548
 
-* Reddit
-  https://www.reddit.com/r/ZacrocoZOfficial
+* Facebook Page
+  https://www.facebook.com/share/1EnbqNtSnv/
 
 ---
 
