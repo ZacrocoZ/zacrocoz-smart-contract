@@ -108,7 +108,7 @@ https://app.uncx.network/lockers/univ3/chain/56/address/0xb4d247b9cd3cf328603765
   https://dexscreener.com/bsc/0xb4d247b9cd3cf32860376566c3e02004f4484a79
 
 * X / Twitter
-  https://x.com/ZacrocoZ
+  https://x.com/ZacrocoZZRZ
 
 * Telegram
   https://t.me/zacrocozofficial
