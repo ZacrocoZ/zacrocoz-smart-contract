@@ -130,7 +130,7 @@ https://app.uncx.network/lockers/univ3/chain/56/address/0xb4d247b9cd3cf328603765
 
 ---
 
-## Closing Statement
+## Closing Statement.
 
 Structured Blockchain. Built for Endurance.
 
